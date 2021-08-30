@@ -10,6 +10,10 @@
     - 수업 이후 복습을 위해서 올려둔 것으로 수업에서 배운 몇몇 코드를 커밋 해두었습니다.
     - <a href="https://github.com/insung3511/sunrin-programmingClass">[For study]</a> <br/>
 
+- 선린인터넷고등학교 IoT 경진대회 사회적 거리두기 측정 CCTV 프로젝트 <2학년>
+    - IoT 경진대회 주제로 사회적 거리두기를 측정하는 CCTV를 라즈베리파이로 제작하였습니다.
+    - <a href="https://github.com/insung3511/social-distance">[Social Distance Measure]</a>
+
 - 선린인터넷고등학교 응용프로그래밍(Java) ATM GUI 프로젝트 <2학년>
     - CLI ATM 프로그램을 GUI로 바꾸어 제작한 ATM 팀 프로젝트 과제입니다.
     - <a href="https://github.com/insung3511/javaATM-project">[ATM Project]</a> <br/>
@@ -27,11 +31,19 @@
     - <a href="https://github.com/insung3511/2021-bigdata-class-report">[GDP and Starbucks]</a> <br/>
 
 ## In Club "NEFUS" !
-- 네퓨즈 동아리 숙제 모음집
+- 네퓨즈 동아리 숙제 모음집 <1학년 ~ 3학년>
     - 2019년부터 2021년도 까지 동아리 활동을 하면서 진행한 프로젝트 및 숙제들을 올려두었습니다.
     - <a href="https://github.com/insung3511/nefus-homeworks">[Nefus homework]</a>
 
+- 네퓨즈 시연회 #아가리벌려_공룡_뛴다 <2학년>
+    - 2020학년도 네퓨즈 18기 홍보를 위해서 제작한 프로젝트 입니다.
+    - <a href="https://github.com/insung3511/openCV-Dino">[Open ur mouth if u wanna make dino jump]</a>
+
+- 네퓨즈 + 이모션 (네모션) OpenCV 강의 <2학년>
+    - <a href="http://nefus.kr">네퓨즈</a>와 <a href="http://erntion.kr">이모션</a>이 같이 프로젝트를 진행 한 후 OpenCV 특강을 짧게 진행을 하였습니다. 그에 대한 수업자료와 파일들입니다.
+    - <a href="https://github.com/insung3511/nemotion-opencv-class">[Nemotion Class]</a>
+
 ## Outside...
-- 어떤 해커톤에 참가
+- 어떤 해커톤에 참가 <1학년>
     - 해커톤에 참가하여 YOLO를 통해 객체 인식을 진행한 프로젝트 입니다.
     - <a href="https://github.com/insung3511/yolo-human">[Find human with YOLO]</a>
